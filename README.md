@@ -12,7 +12,7 @@ LICENSE
 
 Download a repository 
 ->git clone the link of code
-->git init the zip file
+->git init
 
 找开源项目的一些途径
 https://github.com/trending/
@@ -25,3 +25,6 @@ https://www.zhihu.com/column/mm-fe
 • 找例子 xxx sample
 • 找空项目架子 xxx starter / xxx boilerplate 
 • 找教程  xxx tutorial
+
+commit -A
+commit -m"fisrt commit"
