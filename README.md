@@ -1,4 +1,4 @@
-##How to use Github
+#How to use Github
 
 commit ->
 repository ->Project, or the folder/place where your project is kept
